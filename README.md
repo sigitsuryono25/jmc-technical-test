@@ -8,7 +8,7 @@ Aplikasi pencatatan barang masuk dengan modul Master Data (Kategori & Sub Katego
 | --- | --- |
 | Live Demo | `https://GANTI-DENGAN-URL-VERCEL.vercel.app` |
 | Video Demo | `https://GANTI-DENGAN-URL-VIDEO` |
-| Repository | `https://github.com/GANTI-USERNAME/aplikasi-pengelolaan-barang` |
+| Repository | `https://github.com/sigitsuryono25/jmc-technical-test` |
 
 > Ganti ketiga URL di atas sebelum dikumpulkan.
 
