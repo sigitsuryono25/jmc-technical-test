@@ -6,7 +6,7 @@ Aplikasi pencatatan barang masuk dengan modul Master Data (Kategori & Sub Katego
 
 | Keterangan | URL |
 | --- | --- |
-| Live Demo | `https://GANTI-DENGAN-URL-VERCEL.vercel.app` |
+| Live Demo | `https://jmc-technical-test-red.vercel.app` |
 | Video Demo | `https://GANTI-DENGAN-URL-VIDEO` |
 | Repository | `https://github.com/sigitsuryono25/jmc-technical-test` |
 
