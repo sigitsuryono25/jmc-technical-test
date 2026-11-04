@@ -370,14 +370,15 @@ export default function StockIns() {
                                   <Icon name="file" size={13} />
                                 </a>
                               )}
-                              <button
-                                type="button"
+                              <a
                                 className="btn btn-sm btn-light btn-icon text-secondary"
                                 title="Cetak surat masuk"
-                                onClick={() => window.open(`/print/${row.id}`, '_blank')}
+                                href={`/print/${row.id}`}
+                                target="_blank"
+                                rel="noreferrer"
                               >
                                 <Icon name="printer" size={13} />
-                              </button>
+                              </a>
                               <button
                                 type="button"
                                 className="btn btn-sm btn-light btn-icon text-danger"
