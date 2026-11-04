@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.env.local
+uploads/*
+!uploads/.gitkeep
+.DS_Store
+*.log
+*.pdf
+ketentuan_pengerjaan_tes_teknis.txt
+.vercel
