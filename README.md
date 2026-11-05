@@ -7,10 +7,8 @@ Aplikasi pencatatan barang masuk dengan modul Master Data (Kategori & Sub Katego
 | Keterangan | URL |
 | --- | --- |
 | Live Demo | `https://jmc-technical-test-red.vercel.app` |
-| Video Demo | `https://GANTI-DENGAN-URL-VIDEO` |
+| Video Demo | `https://youtu.be/Q3arAcZXxus` |
 | Repository | `https://github.com/sigitsuryono25/jmc-technical-test` |
-
-> Ganti ketiga URL di atas sebelum dikumpulkan.
 
 ![Halaman Barang Masuk](docs/screenshots/barang-masuk.jpg)
 
@@ -40,8 +38,8 @@ Aplikasi pencatatan barang masuk dengan modul Master Data (Kategori & Sub Katego
 Butuh Node.js 20+ dan PostgreSQL 14+.
 
 ```bash
-git clone https://github.com/GANTI-USERNAME/aplikasi-pengelolaan-barang.git
-cd aplikasi-pengelolaan-barang
+git clone https://github.com/sigitsuryono25/jmc-technical-test.git
+cd jmc-technical-test
 npm install
 
 cp .env.example .env
